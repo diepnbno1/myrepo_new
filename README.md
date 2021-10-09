@@ -1,2 +1,2 @@
 # myrepo_new
-My new reposition _ test
+My new repository _ test
